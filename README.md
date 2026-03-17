@@ -1,4 +1,4 @@
-911S5.SBS — Residential SOCKS5 Proxies Simple, reliable, and private proxy access for anyone who needs it. No corporate fluff, just tools that work. 🔧 What You Get 🌍 Smart Proxy Selection Access proxy IPs filtered by:
+911s5 Proxy 911S5.SBS — Residential SOCKS5 Proxies Simple, reliable, and private proxy access for anyone who needs it. No corporate fluff, just tools that work. 🔧 What You Get 🌍 Smart Proxy Selection Access proxy IPs filtered by:
 
 Country, state, or city
 IP range or ZIP code
