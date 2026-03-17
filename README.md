@@ -38,19 +38,17 @@ Residential IPs = fewer blocks, fewer captchas, fewer headaches.
 
 💸 Pricing — Pay Once, Use Forever All plans include lifetime validity, unmetered bandwidth, and SOCKS5 protocol. No monthly fees. No expiration. 1 proxy = 1 credit, usable from any location.
 
-Available Packages: 🔹 Basic — $28 Includes 150 proxies.
+Available Packages: 
 
+🔹 Basic — $28 Includes 150 proxies.
 🔹 Standard — $48 Includes 400 proxies.
-
 🔹 Professional — $65 Includes 600 proxies.
-
 🔹 Business — $108 Includes 1,200 proxies.
-
 🔹 Enterprise — $210 Includes 2,500 proxies.
-
 🔹 Unlimited — $674 Includes 9,000 proxies.
 
 All plans include: ✓ No expiry — your balance lasts forever ✓ Unmetered bandwidth — no data caps or throttling ✓ SOCKS5 protocol — strong encryption for maximum anonymity ✓ Free Windows software — XP through Windows 10 ✓ Global access — use any proxy from any city or country ✓ Full API access — for custom integrations and automation
+
 🚀 Quick Start
 
 Pick a package  
